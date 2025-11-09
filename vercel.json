@@ -1,0 +1,8 @@
+json
+{
+  "functions": {
+    "api/webhook.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
